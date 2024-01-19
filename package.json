@@ -2,7 +2,7 @@
   "name": "lauramifthahurizky_213510118_5d_uasprakdpm",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app"
   },
